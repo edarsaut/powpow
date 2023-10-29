@@ -1,2 +1,2 @@
 # powpow
-Minimalistic tank wars game
+Minimalistic tank wars game for MS-DOS
